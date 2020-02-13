@@ -1,2 +1,2 @@
 # Test
-test repo for git hub
+test repo for git hub program
